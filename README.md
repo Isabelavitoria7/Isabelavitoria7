@@ -6,7 +6,7 @@ Me chamo Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenharia 
 
 <p align="left">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+    <a href="https://linkedin.com/in/isabelavitoria7/" target="_blank">
         <img 
             src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="LinkedIn Badge"
