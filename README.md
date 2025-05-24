@@ -22,9 +22,8 @@ Me nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenhari
 </p>
 
 
-### 🤖 Linguagens e Tecnologias
 ---
-
+### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
@@ -73,12 +72,19 @@ Me nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenhari
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 <br>
 
-### 📚 Aprendendo
 ---
-
+### 📚 Aprendendo
 <img 
     align="left" 
     alt="React"
@@ -110,14 +116,6 @@ Me nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenhari
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
