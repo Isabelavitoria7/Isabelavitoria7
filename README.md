@@ -58,6 +58,14 @@ Me nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenhari
 />
 <img 
     align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -85,14 +93,6 @@ Me nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenhari
 
 ---
 ### 📚 Aprendendo
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 <img 
     align="left" 
     alt="Next.js" 
