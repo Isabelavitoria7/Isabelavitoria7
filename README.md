@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenharia da Computação na UEMG e me dedicando para ser uma programadora Web.
+Meu nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenharia da Computação na UEMG e atuo como Desenvolvedora Fullstack Júnior.
 
 <p align="left">
     <!-- LinkedIn -->
