@@ -1,7 +1,7 @@
 # 👩🏾‍💻 Isabela Vitória
 **`Desenvolvedora Fullstack`**
 <br/>
-Meu nome é Isabela Vitória, tenho 21 anos. Atualmente, estou cursando Engenharia da Computação na UEMG e atuo como Desenvolvedora de Software Fullstack.
+Meu nome é Isabela Vitória, tenho 22 anos. Atualmente, estou cursando Engenharia da Computação na UEMG e atuo como Desenvolvedora de Software Fullstack.
 <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/isabelavitoria7/" target="_blank">
